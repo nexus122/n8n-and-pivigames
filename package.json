@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "n8n": "^1.108.2"
+  },
+  "devDependencies": {
+    "@browsermcp/mcp": "^0.1.3"
   }
 }
